@@ -25,10 +25,11 @@ The first challenge that we came across was to find the best sentiment API for o
 
 A challenge that we came across as we developed the backend was of how to effectively implement the news API without using an excess amount of requests. We solved this by requesting the API through different days instead of per domain, which decreased our total requests needed by around 900%.
 
-FRONT END TEAM INSERT YOUR STUFF HERE
-The front end team also ran into issues while creating the website. The "See How It Works" button was really difficult to code
-There were, of course, a few challenges that were just results of careless oversights of the API documentation and what not.
+The front end team also ran into issues while creating the website. The "See How It Works" button was really difficult to code, due to JavaScript not being able to open dropdowns and do other important things. This made it super complicated to implement the feature as a user typing, but we eventually got it to work.
 
+The Chart layout was also very confusing, as we needed to basically restyle the whole chart to work with our unique theme. This lead to many issues, but eventually provided us with a better understanding of Chart.js.
+
+There were, of course, a few challenges that were just results of careless oversights of the API documentation and what not, but we're happy to say we overcame all of them and finished this wonderful and useful project in less than 36 hours.
 
 
 ## Accomplishments that we're proud of
