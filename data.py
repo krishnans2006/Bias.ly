@@ -20,7 +20,7 @@ load_dotenv()
 
 url = 'https://newsapi.org/v2/everything?'
 
-news_api_key = "610f52d1a59c4705be3a17dc098b0e25"
+news_api_key = os.getenv("APIKEY")
 print(news_api_key)
 
 
